@@ -3,6 +3,7 @@ collection of useful tutorials and tools for personal reference
 
 ## JavaScript
 - [JavaScript30 (wesbos)](https://javascript30.com/)
+- [John Resig's Advanced JS story challenge](https://johnresig.com/apps/learn/)
 
 ## React
 - [Web Bos Beginner's React Course](https://reactforbeginners.com/)
